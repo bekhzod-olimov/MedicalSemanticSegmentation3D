@@ -1,0 +1,291 @@
+{
+    "Datasets": {
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_16.nii.gz": {
+            "0": 0.5279,
+            "1": 0.5386,
+            "2": 0.5023,
+            "3": 0.4648,
+            "4": 0.5518
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_60.nii.gz": {
+            "0": 0.5491,
+            "1": 0.6556,
+            "2": 0.7269,
+            "3": 0.7308,
+            "4": 0.6731
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_44.nii.gz": {
+            "0": 0.3777,
+            "1": 0.5324,
+            "2": 0.502,
+            "3": 0.5291,
+            "4": 0.4856
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_24.nii.gz": {
+            "0": 0.3452,
+            "1": 0.4697,
+            "2": 0.4799,
+            "3": 0.4895,
+            "4": 0.4857
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_63.nii.gz": {
+            "0": 0.3934,
+            "1": 0.7146,
+            "2": 0.764,
+            "3": 0.7925,
+            "4": 0.7778
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_47.nii.gz": {
+            "0": 0.6959,
+            "1": 0.6798,
+            "2": 0.6692,
+            "3": 0.6237,
+            "4": 0.5299
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_12.nii.gz": {
+            "0": 0.948,
+            "1": 0.9535,
+            "2": 0.9518,
+            "3": 0.9536,
+            "4": 0.952
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_41.nii.gz": {
+            "0": 0.4743,
+            "1": 0.6568,
+            "2": 0.6277,
+            "3": 0.6411,
+            "4": 0.6238
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_27.nii.gz": {
+            "0": 0.5431,
+            "1": 0.6483,
+            "2": 0.6311,
+            "3": 0.639,
+            "4": 0.6466
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_14.nii.gz": {
+            "0": 0.2436,
+            "1": 0.3114,
+            "2": 0.3296,
+            "3": 0.4156,
+            "4": 0.5913
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_62.nii.gz": {
+            "0": 0.4343,
+            "1": 0.5829,
+            "2": 0.5858,
+            "3": 0.6305,
+            "4": 0.641
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_49.nii.gz": {
+            "0": 0.6199,
+            "1": 0.6413,
+            "2": 0.6268,
+            "3": 0.6345,
+            "4": 0.6282
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_22.nii.gz": {
+            "0": 0.9515,
+            "1": 0.9622,
+            "2": 0.9623,
+            "3": 0.9629,
+            "4": 0.963
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_52.nii.gz": {
+            "0": 0.8375,
+            "1": 0.8651,
+            "2": 0.8621,
+            "3": 0.8557,
+            "4": 0.847
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_25.nii.gz": {
+            "0": 0.5908,
+            "1": 0.6594,
+            "2": 0.7353,
+            "3": 0.6936,
+            "4": 0.7306
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_29.nii.gz": {
+            "0": 0.5324,
+            "1": 0.7241,
+            "2": 0.7783,
+            "3": 0.7772,
+            "4": 0.786
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_9.nii.gz": {
+            "0": 0.16,
+            "1": 0.442,
+            "2": 0.4287,
+            "3": 0.4167,
+            "4": 0.4003
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_10.nii.gz": {
+            "0": 0.5559,
+            "1": 0.5808,
+            "2": 0.6372,
+            "3": 0.6386,
+            "4": 0.6088
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_33.nii.gz": {
+            "0": 0.6833,
+            "1": 0.7052,
+            "2": 0.7112,
+            "3": 0.7363,
+            "4": 0.742
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_38.nii.gz": {
+            "0": 0.694,
+            "1": 0.744,
+            "2": 0.7659,
+            "3": 0.7717,
+            "4": 0.78
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_13.nii.gz": {
+            "0": 0.818,
+            "1": 0.8595,
+            "2": 0.8735,
+            "3": 0.8815,
+            "4": 0.888
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_19.nii.gz": {
+            "0": 0.5011,
+            "1": 0.6515,
+            "2": 0.7046,
+            "3": 0.6929,
+            "4": 0.7247
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_45.nii.gz": {
+            "0": 0.6791,
+            "1": 0.6743,
+            "2": 0.6676,
+            "3": 0.6576,
+            "4": 0.6693
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_46.nii.gz": {
+            "0": 0.7141,
+            "1": 0.6679,
+            "2": 0.6781,
+            "3": 0.77,
+            "4": 0.7794
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_31.nii.gz": {
+            "0": 0.5522,
+            "1": 0.64,
+            "2": 0.6389,
+            "3": 0.6553,
+            "4": 0.6257
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_3.nii.gz": {
+            "0": 0.2714,
+            "1": 0.3587,
+            "2": 0.297,
+            "3": 0.294,
+            "4": 0.4188
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_28.nii.gz": {
+            "0": 0.5177,
+            "1": 0.4876,
+            "2": 0.6803,
+            "3": 0.6877,
+            "4": 0.6627
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_59.nii.gz": {
+            "0": 0.6869,
+            "1": 0.6681,
+            "2": 0.6941,
+            "3": 0.6991,
+            "4": 0.6833
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_32.nii.gz": {
+            "0": 0.4533,
+            "1": 0.5591,
+            "2": 0.4803,
+            "3": 0.5271,
+            "4": 0.6289
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_21.nii.gz": {
+            "0": 0.8167,
+            "1": 0.8761,
+            "2": 0.8796,
+            "3": 0.8818,
+            "4": 0.8655
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_56.nii.gz": {
+            "0": 0.2275,
+            "1": 0.344,
+            "2": 0.5617,
+            "3": 0.4464,
+            "4": 0.5017
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_20.nii.gz": {
+            "0": 0.9403,
+            "1": 0.9457,
+            "2": 0.9471,
+            "3": 0.9474,
+            "4": 0.9469
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_61.nii.gz": {
+            "0": 0.5538,
+            "1": 0.6311,
+            "2": 0.6006,
+            "3": 0.6154,
+            "4": 0.5907
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_26.nii.gz": {
+            "0": 0.3876,
+            "1": 0.5128,
+            "2": 0.559,
+            "3": 0.58,
+            "4": 0.6687
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_40.nii.gz": {
+            "0": 0.5901,
+            "1": 0.655,
+            "2": 0.662,
+            "3": 0.7015,
+            "4": 0.7251
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_53.nii.gz": {
+            "0": 0.5395,
+            "1": 0.6434,
+            "2": 0.714,
+            "3": 0.7651,
+            "4": 0.7826
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_2.nii.gz": {
+            "0": 0.5228,
+            "1": 0.6569,
+            "2": 0.6368,
+            "3": 0.6394,
+            "4": 0.6046
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_6.nii.gz": {
+            "0": 0.9391,
+            "1": 0.9481,
+            "2": 0.9464,
+            "3": 0.9495,
+            "4": 0.9509
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_8.nii.gz": {
+            "0": 0.1163,
+            "1": 0.1473,
+            "2": 0.127,
+            "3": 0.2825,
+            "4": 0.3371
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_17.nii.gz": {
+            "0": 0.8497,
+            "1": 0.863,
+            "2": 0.8302,
+            "3": 0.8203,
+            "4": 0.8076
+        },
+        "/home/ubuntu/workspace/bekhzod/allconec/3D-UNet/Datasets/Task09_Spleen/imagesTr/spleen_18.nii.gz": {
+            "0": 0.9324,
+            "1": 0.9492,
+            "2": 0.9527,
+            "3": 0.952,
+            "4": 0.9498
+        }
+    }
+}
